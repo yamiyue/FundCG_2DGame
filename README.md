@@ -23,10 +23,12 @@ Character in Maple Story
 - Walk
 - Jump
 - Attack
+ 
 Use 4 sets continous images of the character actions. Press left/right arrow keys to control character to walk left/right. Press alt key to make character jump. Press ctrl key to let character attack. Press Z key to pick up apples.
 #### Physics
 - Terrain Collision
 - Gravity
+
 Use brute force to deal with collision problem. Set the postion constrains and check whether the collision occur to stop character.
 
 Set simple gravity(no acceleration) for character to achieve falling action.
@@ -36,28 +38,39 @@ Render the scene in framebuffer and bind as a texture. Finally, render the textu
 http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-14-render-to-texture/
 ### Shaders
 
-- CRT effect 
+- CRT effect
+
 https://www.shadertoy.com/view/ldjGzV
-- Snow effect 
+- Snow effect
+
 https://www.shadertoy.com/view/ldsGDn
-- Mosaic effect 
+- Mosaic effect
+
 https://www.shadertoy.com/view/4d2SWy
-- Shake effect 
+- Shake effect
+
 https://www.shadertoy.com/view/XdcBzs
 
 ### Texture source
 
-- Character 
+- Character
+
 https://maplestory.net/design#
 - Box
+
 https://maplestory.net/design#
-- BackGround 
+- BackGround
+
 MapleStory
 - Apple
+
 MapleStory
 - Content in TV 
+
 MapleStory
 - Tv
+
 MapleStory
 - Finish
+
 MapleStory
