@@ -10,7 +10,7 @@ Control the character to destroy the boxes and collect the apples.
 ## Implement
 
 ### Platform/Environment
-- QT
+- QT 5.14.1
 - MSVC2017
 - OpenGL 4.3
 - Windows10 64bit
