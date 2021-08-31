@@ -9,11 +9,11 @@ Control the character to destroy the boxes and collect the apples.
 
 ## Implement
 
-###Charcter
+### Charcter
 
-####Actions
--idle
--walk
--jump
--attack
+#### Actions
+- idle
+- walk
+- jump
+- attack
 Use 4 sets continous images of the character actions. Use left/right arrow keys to control character to move left/right. Use alt key to make character jump. Use ctrl key to let character attack.
