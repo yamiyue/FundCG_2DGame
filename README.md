@@ -1,5 +1,5 @@
 # FundCG_2DGame
-NTUST Fundamental of Computer Graphics Project2
+NTUST Fundamental of Computer Graphics Project 2
 
 ## Introduction
 The propose of this project is to use the Opengl texture arrays to make 2D animations. In the same time, use these animations to make a 2D Game.
@@ -51,7 +51,11 @@ https://www.shadertoy.com/view/4d2SWy
 
 https://www.shadertoy.com/view/XdcBzs
 
-### Texture source
+## Game Demo
+
+{%youtube iQQiGocVjY8 %}
+
+## Texture source
 
 - Character
 
