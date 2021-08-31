@@ -53,8 +53,6 @@ https://www.shadertoy.com/view/XdcBzs
 
 ## Game Demo
 
-{%youtube iQQiGocVjY8 %}
-
 ## Texture source
 
 - Character
