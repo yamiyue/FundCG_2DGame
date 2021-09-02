@@ -1,3 +1,4 @@
+
 # FundCG_2DGame
 NTUST Fundamental of Computer Graphics Project 2
 
@@ -54,6 +55,8 @@ https://www.shadertoy.com/view/XdcBzs
 ## Game Demo
 
 https://youtu.be/6u_z9dkebKk
+
+![P2](https://user-images.githubusercontent.com/36958393/131788663-c379fef0-0734-468e-bf16-bde97521f5e9.jpg)
 
 ## Texture source
 
